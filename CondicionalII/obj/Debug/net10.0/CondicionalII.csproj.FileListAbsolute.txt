@@ -1,0 +1,14 @@
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\bin\Debug\net10.0\CondicionalII.exe
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\bin\Debug\net10.0\CondicionalII.deps.json
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\bin\Debug\net10.0\CondicionalII.runtimeconfig.json
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\bin\Debug\net10.0\CondicionalII.dll
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\bin\Debug\net10.0\CondicionalII.pdb
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\obj\Debug\net10.0\CondicionalII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\obj\Debug\net10.0\CondicionalII.AssemblyInfoInputs.cache
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\obj\Debug\net10.0\CondicionalII.AssemblyInfo.cs
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\obj\Debug\net10.0\CondicionalII.csproj.CoreCompileInputs.cache
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\obj\Debug\net10.0\CondicionalII.dll
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\obj\Debug\net10.0\refint\CondicionalII.dll
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\obj\Debug\net10.0\CondicionalII.pdb
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\obj\Debug\net10.0\CondicionalII.genruntimeconfig.cache
+C:\Users\Denizio Chiteculo\desktop\HelloWorld\CondicionalII\obj\Debug\net10.0\ref\CondicionalII.dll
