@@ -1,0 +1,14 @@
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\bin\Debug\net10.0\fatorial.exe
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\bin\Debug\net10.0\fatorial.deps.json
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\bin\Debug\net10.0\fatorial.runtimeconfig.json
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\bin\Debug\net10.0\fatorial.dll
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\bin\Debug\net10.0\fatorial.pdb
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\obj\Debug\net10.0\fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\obj\Debug\net10.0\fatorial.AssemblyInfoInputs.cache
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\obj\Debug\net10.0\fatorial.AssemblyInfo.cs
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\obj\Debug\net10.0\fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\obj\Debug\net10.0\fatorial.dll
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\obj\Debug\net10.0\refint\fatorial.dll
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\obj\Debug\net10.0\fatorial.pdb
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\obj\Debug\net10.0\fatorial.genruntimeconfig.cache
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\fatorial\obj\Debug\net10.0\ref\fatorial.dll
