@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Pesquisa_Vector_com_Metodo/1.0.0": {
+        "runtime": {
+          "Pesquisa_Vector_com_Metodo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pesquisa_Vector_com_Metodo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

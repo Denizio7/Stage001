@@ -1,0 +1,14 @@
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\bin\Debug\net10.0\Pesquisa_Vector_com_Metodo.exe
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\bin\Debug\net10.0\Pesquisa_Vector_com_Metodo.deps.json
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\bin\Debug\net10.0\Pesquisa_Vector_com_Metodo.runtimeconfig.json
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\bin\Debug\net10.0\Pesquisa_Vector_com_Metodo.dll
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\bin\Debug\net10.0\Pesquisa_Vector_com_Metodo.pdb
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\obj\Debug\net10.0\Pesquisa_Vector_com_Metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\obj\Debug\net10.0\Pesquisa_Vector_com_Metodo.AssemblyInfoInputs.cache
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\obj\Debug\net10.0\Pesquisa_Vector_com_Metodo.AssemblyInfo.cs
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\obj\Debug\net10.0\Pesquisa_Vector_com_Metodo.csproj.CoreCompileInputs.cache
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\obj\Debug\net10.0\Pesquisa_Vector_com_Metodo.dll
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\obj\Debug\net10.0\refint\Pesquisa_Vector_com_Metodo.dll
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\obj\Debug\net10.0\Pesquisa_Vector_com_Metodo.pdb
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\obj\Debug\net10.0\Pesquisa_Vector_com_Metodo.genruntimeconfig.cache
+C:\Users\Denizio Chiteculo\desktop\csharp\grupo03\Pesquisa_Vector_com_Metodo\obj\Debug\net10.0\ref\Pesquisa_Vector_com_Metodo.dll
