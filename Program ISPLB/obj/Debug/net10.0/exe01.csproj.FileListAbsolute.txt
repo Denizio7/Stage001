@@ -1,0 +1,14 @@
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\bin\Debug\net10.0\exe01.exe
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\bin\Debug\net10.0\exe01.deps.json
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\bin\Debug\net10.0\exe01.runtimeconfig.json
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\bin\Debug\net10.0\exe01.dll
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\bin\Debug\net10.0\exe01.pdb
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\obj\Debug\net10.0\exe01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\obj\Debug\net10.0\exe01.AssemblyInfoInputs.cache
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\obj\Debug\net10.0\exe01.AssemblyInfo.cs
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\obj\Debug\net10.0\exe01.csproj.CoreCompileInputs.cache
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\obj\Debug\net10.0\exe01.dll
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\obj\Debug\net10.0\refint\exe01.dll
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\obj\Debug\net10.0\exe01.pdb
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\obj\Debug\net10.0\exe01.genruntimeconfig.cache
+C:\Users\Denizio Chiteculo\csharp\grupo03\exe01\obj\Debug\net10.0\ref\exe01.dll
