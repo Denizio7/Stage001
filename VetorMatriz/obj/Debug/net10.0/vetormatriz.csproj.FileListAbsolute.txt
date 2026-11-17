@@ -1,0 +1,14 @@
+c:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\bin\Debug\net10.0\vetormatriz.exe
+C:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\bin\Debug\net10.0\vetormatriz.deps.json
+C:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\bin\Debug\net10.0\vetormatriz.runtimeconfig.json
+c:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\bin\Debug\net10.0\vetormatriz.dll
+c:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\bin\Debug\net10.0\vetormatriz.pdb
+c:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\obj\Debug\net10.0\vetormatriz.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\obj\Debug\net10.0\vetormatriz.AssemblyInfoInputs.cache
+c:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\obj\Debug\net10.0\vetormatriz.AssemblyInfo.cs
+c:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\obj\Debug\net10.0\vetormatriz.csproj.CoreCompileInputs.cache
+c:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\obj\Debug\net10.0\vetormatriz.dll
+c:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\obj\Debug\net10.0\refint\vetormatriz.dll
+c:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\obj\Debug\net10.0\vetormatriz.pdb
+C:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\obj\Debug\net10.0\vetormatriz.genruntimeconfig.cache
+C:\Users\Denizio Chiteculo\csharp\grupo03\vetormatriz\obj\Debug\net10.0\ref\vetormatriz.dll
